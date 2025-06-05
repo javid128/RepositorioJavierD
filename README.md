@@ -4,17 +4,17 @@
 
 ---
 
-## 🎯 Objetivo general
+##  Objetivo general
 
 Diseñar un **prototipo interactivo** enfocado en **mejorar la seguridad y organización del acceso a aulas académicas**, mediante una interfaz intuitiva y funcional que permita el registro, monitoreo y control eficiente de las entradas y salidas de los usuarios en tiempo real.
 
 ---
 
-## 🔧 Metodología aplicada
+##  Metodología aplicada
 
 El proyecto se desarrolló aplicando los conceptos teóricos y prácticos de dos enfoques complementarios:
 
-### 🧠 Design Thinking
+###  Design Thinking
 
 Utilizado como marco de trabajo centrado en el usuario, se aplicaron las cinco etapas:
 
@@ -24,7 +24,7 @@ Utilizado como marco de trabajo centrado en el usuario, se aplicaron las cinco e
 - **Prototipar:** Desarrollo del diseño visual y funcional en Figma.  
 - **Probar:** Validación de la propuesta mediante retroalimentación de usuarios potenciales.
 
-### 💻 Ingeniería de Software
+###  Ingeniería de Software
 
 Desde esta perspectiva se abordó la planificación estructurada del sistema:
 
@@ -35,7 +35,7 @@ Desde esta perspectiva se abordó la planificación estructurada del sistema:
 
 ---
 
-## 📄 Documentación principal
+## Documentación principal
 
 - Idea del proyecto  
 - Cuadro de usuarios  
@@ -46,16 +46,16 @@ Desde esta perspectiva se abordó la planificación estructurada del sistema:
 
 ---
 
-## 👥 Participantes
+##  Participantes
 
-- David Alexander Santisteban Apolinar  
-- Jhoan Stiven Jimenez Ardila  
-- Andres Julian Mendivelso Chaparro  
-- Jhon Jairo Riascos Velandia  
+- Ana Sofia Lizarazo Echeverry 
+- Laura Sofia Angulo Perez 
+- Brianna Estefania Serrato Acosta  
+- Javier Andres Duran Mendoza 
 
 ---
 
-## 📜 Licencia
+##  Licencia
 
 Este repositorio tiene fines **académicos**. Todos los textos, diagramas y prototipos fueron realizados como parte de un **ejercicio de documentación de diseño de aplicaciones**.
 
